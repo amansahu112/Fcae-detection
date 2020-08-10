@@ -1,1 +1,1 @@
-4
+this folder stores the processed image
